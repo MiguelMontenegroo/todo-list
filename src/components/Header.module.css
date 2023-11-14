@@ -1,0 +1,32 @@
+.header{
+    background: var(--gray-700);
+    width: 90rem;
+    height: 12.5rem;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.h11{
+    color: var(--Blue);
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.h12{
+    color: var(--PurpleDark);
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.header img{
+    width: 1.375rem;
+    height: 2.25rem;
+    flex-shrink: 0;
+    margin-top: 2rem;
+    margin-right: 0.7rem;
+}

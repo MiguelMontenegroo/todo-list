@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    align-self: center;
+    
+    gap: 1rem;
+    max-width: 46rem;
+    margin: 0 auto;
+    margin-top: -1.5rem;
+}
+
+.input{
+    padding: 16px;
+    gap: 8px;
+    flex: 1 0 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-700);
+    background: var(--gray-500);
+    
+}
+.button{
+    padding: 16px;
+    gap: 8px;
+    border-radius: 8px;
+    background: var(--Blue-Dark);
+    color: var(--gray-100);
+
+
+}
